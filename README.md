@@ -1,2 +1,2 @@
 # Minecraft-Mods
-This repository contains different item/blocks for forge. 
+This repository contains different item/blocks for ForgeResourcePack.
